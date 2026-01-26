@@ -1,11 +1,34 @@
+# Personal
+## Matthew A. Wyczalkowski
+[matt.wyczalkowski@gmail.com](mailto:matt.wyczalkowski@gmail.com)
 
-# Scientific illustration and data visualization
-As a researcher in a prominent cancer research lab, I have a passion for
-communicating complex scientific concepts visually.  I have been the lead
-illustrator for a number of successful large scale grants, and created figures
-for many articles in various high profile journals.  Below is a selection of my
-work, showing representative images which were either published or which were
-part of a successful grant application.
+LinkedIn
+
+GitHub - mwyczalkowski
+GitHub - dinglab
+
+# Highlights
+Include outstanding publications?  Link to HTAN?
+
+
+# Portfolio
+
+## Overview
+This page provides examples of some of my work.
+
+* [Scientific illustration and data visualization](#scientific-illustration-and-data-visualization)
+* [Publications](#publications)
+* [Scientific software](#scientific-software)
+
+## Scientific illustration and data visualization
+As a researcher in a [prominent cancer genomics research
+lab)[https://dinglab.wustl.edu/], I developed a passion for and experience in
+communicating complex scientific concepts through informative grapics.  I have
+created figures for publications in prominent journals, and led illustration
+design for a number of successful large scale grants.  Below is a representative selection of
+my work, highlighting images which were published or in a
+successful grant application.
+
 
 ### Graphical Abstract in Cell (2023)
 
@@ -100,6 +123,21 @@ It also describes the naming scheme developed in our lab and used for specimen c
 Figure was part of a successful grant application to HTAN2, with an estimated $17M awarded to Washington University (2024 - 2029).
 
 # Publications
-The following is a comprehenisive list of publications I have co-authored,
+Outstanding publications include,
+* A
+* B
+* C 
+
+A comprehensive [list of my publications can be found here](Publications.md)
 
 
+# Scientific Software
+
+TinDaisy https://github.com/ding-lab/TinDaisy
+A SNP / Indel variant caller used for paired tumor / normal variant calling for studying mutations driving cancer.
+Used extensively for CPTAC3 and GDAN consortia, processed XXX cases, with YYY publications to date.
+
+Breakpoint Surveyor https://github.com/ding-lab/BreakPointSurveyor
+A pipeline for the analysis and visualization of complex structural variants.  Developed for the analysis of virus integrations
+in TCGA whole genome data, resulting in the publication 
+(cite)
