@@ -1,33 +1,30 @@
 # Personal
-## Matthew A. Wyczalkowski
-[matt.wyczalkowski@gmail.com](mailto:matt.wyczalkowski@gmail.com)
 
-LinkedIn
+* Matthew A. Wyczalkowski
+* [matt.wyczalkowski@gmail.com](mailto:matt.wyczalkowski@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/matthew-wyczalkowski-a224b23/)
+* [Github](https://github.com/mwyczalkowski)
 
-GitHub - mwyczalkowski
-GitHub - dinglab
+## Publications
 
-# Highlights
-Include outstanding publications?  Link to HTAN?
+A comprehensive [list of my publications can be found here](Publications.md)
 
+## Scientific Software
 
-# Portfolio
+* [TinDaisy](https://github.com/ding-lab/TinDaisy)
+  * A SNP / Indel variant caller used for paired tumor / normal variant calling for studying mutations driving cancer.  Implemented in CWL workflow language and used for thousands of cases for CPTAC3 and GDAN consortia.
 
-## Overview
-This page provides examples of some of my work.
-
-* [Scientific illustration and data visualization](#scientific-illustration-and-data-visualization)
-* [Publications](#publications)
-* [Scientific software](#scientific-software)
+* [Breakpoint Surveyor](https://github.com/ding-lab/BreakPointSurveyor)
+  * A pipeline implemented in R and bash for the analysis and visualization of complex structural variants, in particular virus integration
+in TCGA whole genome data.
+  *  Matthew A Wyczalkowski, *et al.*, BreakPoint Surveyor: a pipeline for structural variant visualization, Bioinformatics, Volume 33, Issue 19, October 2017, Pages 3121–3122, [https://doi.org/10.1093/bioinformatics/btx362](https://doi.org/10.1093/bioinformatics/btx362)
 
 ## Scientific illustration and data visualization
-As a researcher in a [prominent cancer genomics research
-lab)[https://dinglab.wustl.edu/], I developed a passion for and experience in
-communicating complex scientific concepts through informative grapics.  I have
-created figures for publications in prominent journals, and led illustration
-design for a number of successful large scale grants.  Below is a representative selection of
-my work, highlighting images which were published or in a
-successful grant application.
+As a researcher in a [prominent cancer genomics research lab](https://dinglab.wustl.edu/), I communicate complex scientific concepts
+through informative grapics.  I have created numerous figures for publications
+in prominent journals, and led illustration design for a number of successful
+large scale grants.  Below is a representative selection of my work,
+highlighting images which were published or in a successful grant application.
 
 
 ### Graphical Abstract in Cell (2023)
@@ -121,23 +118,3 @@ significance across 12 major cancer types.** Nature 502, 333–339 (2013).
 This figure illustates the proposed collection scheme for specimens from a trial participant, yielding a variety of omics-based analyses.
 It also describes the naming scheme developed in our lab and used for specimen collection and tracking.
 Figure was part of a successful grant application to HTAN2, with an estimated $17M awarded to Washington University (2024 - 2029).
-
-# Publications
-Outstanding publications include,
-* A
-* B
-* C 
-
-A comprehensive [list of my publications can be found here](Publications.md)
-
-
-# Scientific Software
-
-TinDaisy https://github.com/ding-lab/TinDaisy
-A SNP / Indel variant caller used for paired tumor / normal variant calling for studying mutations driving cancer.
-Used extensively for CPTAC3 and GDAN consortia, processed XXX cases, with YYY publications to date.
-
-Breakpoint Surveyor https://github.com/ding-lab/BreakPointSurveyor
-A pipeline for the analysis and visualization of complex structural variants.  Developed for the analysis of virus integrations
-in TCGA whole genome data, resulting in the publication 
-(cite)
